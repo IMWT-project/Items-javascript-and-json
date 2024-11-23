@@ -1,0 +1,70 @@
+//WHAT THE JSON FILE SHOULD LOOK LIKE BASED ON VITALI'S CODE//
+
+    {
+        "meta": {
+          "startWith": 0,        // Start with the first person in the people array (index 0)//
+          "startNarrative": "interests",  // Filter people based on the "interests" narrative --> in our case es. "startNarrative": "place"//
+          "startValue": "reading",       // Filter people whose interests include "reading" --> in our case es. "startValue": "Babilonia"//
+          "narratives": ["location", "age", "interests", "hobbies"] //list of narratives//
+        },
+        "people": [ //for us its objects//
+          {
+            "@sort": 1, //index number of the item// 
+            "shortName": "John Doe", //item's name//
+            "image": "images/john_doe.jpg", //item's image//
+            "shortInfo": "A passionate reader and traveler.", //short information displayed by default//
+            "longerInfo": [ //longer description --> shown if you click "show more"//
+              "John loves exploring new places.",
+              "He has visited over 20 countries."
+            ],
+            "fullInfo": "data/john_doe_full_info.html", //link to the page with more info, displayed when you clik on "show me even more" --> we said to display this part as text, not as an external page//
+            "info": { //info that will go in the metadata table//
+              "job": "lawyer", //info. not part of narratives --> for us es. material, dimentions, ecc...//
+              "age": "30", //narrative 1 = es. chronological//
+              "interests": "reading, hiking, coding", //narrative 2 = es. geographical//
+              "hobbies": "traveling, photography", //narrative 3 = es. symbol//
+              "location": "New York" //narrative 4 = es. zodiac//
+            }
+          },
+          {
+            "@sort": 2,
+            "shortName": "Jane Smith",
+            "image": "images/jane_smith.jpg",
+            "shortInfo": "A writer and nature enthusiast.",
+            "longerInfo": [
+              "Jane spends most of her time writing novels and exploring nature.",
+              "Her latest book became a bestseller."
+            ],
+            "fullInfo": "data/jane_smith_full_info.html",
+            "info": {
+              "job": "journalist",
+              "age": "28", 
+              "interests": "writing, nature, yoga",
+              "hobbies": "painting, reading",
+              "location": "California"
+            }
+          },
+          {
+            "@sort": 3,
+            "shortName": "Alice Green",
+            "image": "images/alice_green.jpg",
+            "shortInfo": "An avid photographer with a love for wildlife.",
+            "longerInfo": [
+              "Alice's photography focuses on animals in their natural habitats.",
+              "She has held multiple exhibitions."
+            ],
+            "fullInfo": "data/alice_green_full_info.html",
+            "info": {
+              "job": "photographer",
+              "age": "35",
+              "interests": "photography, wildlife",
+              "hobbies": "hiking, birdwatching",
+              "location": "Texas"
+            }
+          }
+        ]
+      }
+      
+
+
+
