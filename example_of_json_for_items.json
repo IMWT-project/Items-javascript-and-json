@@ -10,7 +10,7 @@
         "people": [ //for us its objects//
           {
             "@sort": 1, //index number of the item// 
-            "shortName": "John Doe", //item's name//
+            "itemName": "John Doe", //item's name//
             "image": "images/john_doe.jpg", //item's image//
             "shortInfo": "A passionate reader and traveler.", //short information displayed by default//
             "longerInfo": [ //longer description --> shown if you click "show more"//
@@ -19,11 +19,12 @@
             ],
             "fullInfo": "data/john_doe_full_info.html", //link to the page with more info, displayed when you clik on "show me even more" --> we said to display this part as text, not as an external page//
             "info": { //info that will go in the metadata table//
-              "job": "lawyer", //info. not part of narratives --> for us es. material, dimentions, ecc...//
-              "age": "30", //narrative 1 = es. chronological//
-              "interests": "reading, hiking, coding", //narrative 2 = es. geographical//
-              "hobbies": "traveling, photography", //narrative 3 = es. symbol//
-              "location": "New York" //narrative 4 = es. zodiac//
+              "date": "lawyer", //info. not part of narratives --> for us es. material, dimentions, ecc...//
+              "geography": "30", //narrative 1 = es. chronological//
+              "medium": "reading, hiking, coding", //narrative 2 = es. geographical//
+              "dimension": "traveling, photography", //narrative 3 = es. symbol//
+              "zodiacConstellation": "New York", //narrative 4 = es. zodiac//
+              "symbol": "New York"  
             }
           },
           {
