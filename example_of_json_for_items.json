@@ -23,7 +23,7 @@
               "geography": "30", //narrative 1 = es. chronological//
               "medium": "reading, hiking, coding", //narrative 2 = es. geographical//
               "dimension": "traveling, photography", //narrative 3 = es. symbol//
-              "zodiacConstellation": "New York", //narrative 4 = es. zodiac//
+              "Constellation": "New York", //narrative 4 = es. zodiac//
               "symbol": "New York"  
             }
           },
