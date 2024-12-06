@@ -1,0 +1,98 @@
+
+{
+            "@sort": 2,
+            "itemName": "Orange-cream shell cylinder seal", 
+            "image": "img_compressed/babylonian_hired_man.jpg",
+            "shortInfo": "mythological scene; shackled deity between snakes, figure holding net, hero holding triple-headed snake, god with tridents standing on lion.",
+            "longerInfo": [
+              "long info 1",
+              "long info 2"
+            ],
+            "fullInfo": "long info 1, long info 2, long info 3",
+            "info": {
+              "date": "2600BC - 2300BC",
+              "geography": "Babylon",
+              "medium": "Shell", 
+              "dimension": "Diameter: 2 cm, Height: 3.2 cm", 
+              "constellation": "Aries",
+              "symbol": "Humanoid"  
+            }
+},
+{
+            "@sort": 3,
+            "itemName": "The Adda Seal", 
+            "image": "img_compressed/babylonian_the_great_one.jpg",
+            "shortInfo": "Greenstone cylinder seal. A hunting god (full-face) has a bow and an arrow (?) over his shoulder; a quiver with tassel attached hangs on his back...",
+            "longerInfo": [
+              "long info 1",
+              "long info 2"
+            ],
+            "fullInfo": "long info 1, long info 2, long info 3",
+            "info": {
+              "date": "2300BC",
+              "geography": "Babylon",
+              "medium": "Greenstone", 
+              "dimension": "Diameter: 2.55 cm / Height: 3.90 cm", 
+              "constellation": "Aquarius",
+              "symbol": "Humanoid"  
+            }
+},
+{
+            "@sort": 4,
+            "itemName": "Votive Relief", 
+            "image": "img_compressed/babylonian_bull_of_heaven.jpeg",
+            "shortInfo": "Votive relief. Reign of Naram-Sin. An episode of the 'Epic of Gilgamesh'.",
+            "longerInfo": [
+              "long info 1",
+              "long info 2"
+            ],
+            "fullInfo":
+              "long info 1, long info 2, long info 3",
+            "info": {
+              "date": "2255 BC - 2219 BC",
+              "geography": "Babylon",
+              "medium": "Terracotta", 
+              "dimension": "Height: 13.5 cm, Width: 11 cm", 
+              "constellation": "Taurus",
+              "symbol": "Bull"  
+            }
+},
+{
+            "@sort": 5,
+            "itemName": "Limestone Cylinder Seal", 
+            "image": "img_compressed/babylonian_goddess.jpg",
+            "shortInfo": "Black, Ishtar-inanna facing left with foot on back of lion, worshipper facing genius, 5 lines of inscription.",
+            "longerInfo": [
+              "long info 1",
+              "long info 2"
+            ],
+            "fullInfo": "long info 1, long info 2, long info 3",
+            "info": {
+              "date": "2254 BCE — 2193 BCE",
+              "geography": "Babylon",
+              "medium": "Limestone", 
+              "dimension": "Height: 4.1 cm, Diameter: 2.6 cm", 
+              "constellation": "Andromeda",
+              "symbol": "Humanoid"  
+            }
+},
+{
+            "@sort": 9,
+            "itemName": "Ceremonial Basin", 
+            "image": "img_compressed/babylonian_goatfish.JPG",
+            "shortInfo": "Rectangular religious basin, decorated with goat fish on either side of a palm tree; braid decoration on the upper edge; quadrangular stepped moldings in the bottom of the basin; traces of an inscription in Elamite (?)",
+            "longerInfo": [
+              "long info 1",
+              "long info 2"
+            ],
+            "fullInfo": "long info 1, long info 2, long info 3",
+            "info": {
+              "date": "1500 BCE — 1100 BCE",
+              "geography": "Babylon",
+              "medium": "Limestone", 
+              "dimension": "Height: 17 cm; Length: 94 cm; Width: 64 cm", 
+              "constellation": "Capricorn",
+              "symbol": "Goat-Fish"  
+            }
+}
+
