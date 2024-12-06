@@ -1,0 +1,155 @@
+
+
+{
+    "meta": {
+      "startWith": 0,
+      "startNarrative": "interests",  
+      "startValue": "reading",       
+      "narratives": ["location", "age", "interests", "hobbies"] 
+    },
+    "people": [ 
+
+      {
+        "@sort": 1, 
+        "itemName": "PALETTE DEPICTING A PAIR OF MUD TURTLES", 
+        "image": "img_compressed/egyptian_two_turtle.jpg", 
+        "shortInfo": "A unique Egyptian palette featuring a pair of Nile mud turtles, Trionyx triunguis, symbolizing fertility and regeneration.", 
+        "longerInfo": [ 
+          "2) longer info ",
+          "..."
+        ],
+        "fullInfo": "3) full info ",
+        "info": { 
+          "date": "3650 BCE — 3500 BCE", 
+          "geography": "Egypt",
+          "medium": "Greywacke",
+          "dimension": "Height: 15.3 cm, Width: 16 cm, Thickness: 0.6 cm", 
+          "constellation": "Leo", 
+          "symbol": "Turtle"  
+        }
+      },
+
+      {
+        "@sort": 6, 
+        "itemName": "STELE OF ABKAOU", 
+        "image": "img_compressed/egyptian_leg_of_bull.JPG", 
+        "shortInfo": "This egyptian fragmented stele depicts a funeral meal scene, where a seated couple, sitting on lion-footed chairs, is shown inhaling the fragrance of a lotus flower. Several figures are depicted bringing offerings, including a man holding a bull’s leg. Another person is performing a lustratio, an ancient purification ritual often conducted before significant religious or funerary events.", 
+        "longerInfo": [ 
+          "2) longer info ",
+          "..."
+        ],
+        "fullInfo": "3) full info ",
+        "info": { 
+          "date": "2033 BCE — 1963 BCE", 
+          "geography": "Egypt",
+          "medium": "Limestone",
+          "dimension": "Height: 112.5 cm; Width: 102.5 cm; Thickness: 9 cm", 
+          "constellation": "Ursa Major", 
+          "symbol": "Bull"  
+        }
+      },
+
+      {
+        "@sort": 7, 
+        "itemName": "STATUE OF GOD APIS", 
+        "image": "img_compressed/egyptian_taurus.jpg", 
+        "shortInfo": "This item is the upper part of an anthropomorphic statue of the bull-headed god Apis, carved from basalt. Apis was a sacred deity in ancient Egypt, associated with fertility, strength, and the king's divine power, often represented as a bull or a bull-headed figure.", 
+        "longerInfo": [ 
+          "2) longer info ",
+          "..."
+        ],
+        "fullInfo": "3) full info ",
+        "info": { 
+          "date": "1550 BCE — 1070 BCE", 
+          "geography": "Egypt",
+          "medium": "Granite",
+          "dimension": "Height 76 cm; Width 39 cm; Depth 34 cm", 
+          "constellation": "Taurus", 
+          "symbol": "Bull"  
+        }
+      },
+
+      {
+        "@sort": 8, 
+        "itemName": "ISIS OF COPTOS", 
+        "image": "img_compressed/egyptian_isis_sopdet.jpg", 
+        "shortInfo": "Monumental stone statue representing the egyptian goddess Isis-Sopted, personification of the star Sirius.", 
+        "longerInfo": [ 
+          "2) longer info ",
+          "..."
+        ],
+        "fullInfo": "3) full info ",
+        "info": { 
+          "date": "1539 BCE — 19292 BCE", 
+          "geography": "Egypt",
+          "medium": "Stone / Granodiorite",
+          "dimension": "Height: 47 cm, Width: 153 cm, Depth: 35 cm", 
+          "constellation": "Canis Major", 
+          "symbol": "Humanoid"  
+        }
+      },
+
+      {
+        "@sort": 10, 
+        "itemName": "FIGURINE OF THE GOD KHNUM", 
+        "image": "img_compressed/egyptian_sheep.webp", 
+        "shortInfo": "Upper part of a steatite figurine depicting the egyptian god Khnum.", 
+        "longerInfo": [ 
+          "2) longer info ",
+          "..."
+        ],
+        "fullInfo": "3) full info ",
+        "info": { 
+          "date": "664 BCE — 332 BCE", 
+          "geography": "Egypt",
+          "medium": "Steatite",
+          "dimension": "Height: 11.2 cm, Width: 7.3 cm, Depth: 5.8 cm", 
+          "constellation": "Capricorn", 
+          "symbol": "Goat-Fish"  
+        }
+      },
+
+      {
+        "@sort": 14, 
+        "itemName": "HERAKLES AND THE GOLDEN APPLES ", 
+        "image": "img_compressed/greek_draco.jpg", 
+        "shortInfo": "Greek bronze group depicting Herakles at the tree of the Hesperides, holding three golden apples in his left hand. Behind him, the apple tree is entwined by the guardian serpent.", 
+        "longerInfo": [ 
+          "2) longer info ",
+          "..."
+        ],
+        "fullInfo": "3) full info ",
+        "info": { 
+          "date": "250 BCE — 30 BCE", 
+          "geography": "Greece",
+          "medium": "Bronze",
+          "dimension": "Height: 104.5 cm, Width: 53 cm, Weight: 37 kg", 
+          "constellation": "Draco", 
+          "symbol": "Dragon"  
+        }
+      },
+
+      {
+        "@sort": 17, 
+        "itemName": "WALL PAINTING: PERSEUS AND ANDROMEDA ", 
+        "image": "img_compressed/greek_andromeda.jpg", 
+        "shortInfo": "Greek fresco illustrating a pivotal moment in the myth of Perseus and Andromeda. In the scene, Perseus prepares to rescue Andromeda from the ketos, a formidable sea monster rendered in a striking blue-green palette. The creature, with its massive open jaws and fearsome teeth, looms ominously toward Andromeda, who stands in the center of the composition with her arms outstretched, embodying both vulnerability and hope.", 
+        "longerInfo": [ 
+          "2) longer info ",
+          "..."
+        ],
+        "fullInfo": "3) full info ",
+        "info": { 
+          "date": "10 BCE — 1 BCE", 
+          "geography": "Greece",
+          "medium": "Fresco",
+          "dimension": "Height: 159.39 cm, Width: 118.75 cm", 
+          "constellation": "Andromeda", 
+          "symbol": "Humanoid"  
+        }
+      }
+    ]
+  }
+  
+
+
