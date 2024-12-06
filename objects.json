@@ -1,0 +1,394 @@
+
+
+{
+    "meta": {
+      "startWith": 0,
+      "startNarrative": "interests",  
+      "startValue": "reading",       
+      "narratives": ["location", "age", "interests", "hobbies"] 
+    },
+    "people": [ 
+
+      {
+        "@sort": 1, 
+        "itemName": "PALETTE DEPICTING A PAIR OF MUD TURTLES", 
+        "image": "img_compressed/egyptian_two_turtle.jpg", 
+        "shortInfo": "A unique Egyptian palette featuring a pair of Nile mud turtles, Trionyx triunguis, symbolizing fertility and regeneration.", 
+        "longerInfo": [ 
+          "2) longer info ",
+          "..."
+        ],
+        "fullInfo": "3) full info ",
+        "info": { 
+          "date": "3650 BCE — 3500 BCE", 
+          "geography": "Egypt",
+          "medium": "Greywacke",
+          "dimension": "Height: 15.3 cm, Width: 16 cm, Thickness: 0.6 cm", 
+          "constellation": "Leo", 
+          "symbol": "Turtle"  
+        }
+      },
+
+      {
+        "@sort": 2,
+        "itemName": "Orange-cream shell cylinder seal", 
+        "image": "img_compressed/babylonian_hired_man.jpg",
+        "shortInfo": "mythological scene; shackled deity between snakes, figure holding net, hero holding triple-headed snake, god with tridents standing on lion.",
+        "longerInfo": [
+          "long info 1",
+          "long info 2"
+        ],
+        "fullInfo": "long info 1, long info 2, long info 3",
+        "info": {
+          "date": "2600BC - 2300BC",
+          "geography": "Babylon",
+          "medium": "Shell", 
+          "dimension": "Diameter: 2 cm, Height: 3.2 cm", 
+          "constellation": "Aries",
+          "symbol": "Humanoid"  
+        }
+      },
+
+      {
+        "@sort": 3,
+        "itemName": "The Adda Seal", 
+        "image": "img_compressed/babylonian_the_great_one.jpg",
+        "shortInfo": "Greenstone cylinder seal. A hunting god (full-face) has a bow and an arrow (?) over his shoulder; a quiver with tassel attached hangs on his back...",
+        "longerInfo": [
+          "long info 1",
+          "long info 2"
+        ],
+        "fullInfo": "long info 1, long info 2, long info 3",
+        "info": {
+          "date": "2300BC",
+          "geography": "Babylon",
+          "medium": "Greenstone", 
+          "dimension": "Diameter: 2.55 cm / Height: 3.90 cm", 
+          "constellation": "Aquarius",
+          "symbol": "Humanoid"  
+        }
+      },
+      {
+        "@sort": 4,
+        "itemName": "Votive Relief", 
+        "image": "img_compressed/babylonian_bull_of_heaven.jpeg",
+        "shortInfo": "Votive relief. Reign of Naram-Sin. An episode of the 'Epic of Gilgamesh'.",
+        "longerInfo": [
+          "long info 1",
+          "long info 2"
+        ],
+        "fullInfo":
+          "long info 1, long info 2, long info 3",
+        "info": {
+          "date": "2255 BC - 2219 BC",
+          "geography": "Babylon",
+          "medium": "Terracotta", 
+          "dimension": "Height: 13.5 cm, Width: 11 cm", 
+          "constellation": "Taurus",
+          "symbol": "Bull"  
+        }
+      },
+      {
+        "@sort": 5,
+        "itemName": "Limestone Cylinder Seal", 
+        "image": "img_compressed/babylonian_goddess.jpg",
+        "shortInfo": "Black, Ishtar-inanna facing left with foot on back of lion, worshipper facing genius, 5 lines of inscription.",
+        "longerInfo": [
+          "long info 1",
+          "long info 2"
+        ],
+        "fullInfo": "long info 1, long info 2, long info 3",
+        "info": {
+          "date": "2254 BCE — 2193 BCE",
+          "geography": "Babylon",
+          "medium": "Limestone", 
+          "dimension": "Height: 4.1 cm, Diameter: 2.6 cm", 
+          "constellation": "Andromeda",
+          "symbol": "Humanoid"  
+        }
+      },
+
+      {
+        "@sort": 6, 
+        "itemName": "STELE OF ABKAOU", 
+        "image": "img_compressed/egyptian_leg_of_bull.JPG", 
+        "shortInfo": "This egyptian fragmented stele depicts a funeral meal scene, where a seated couple, sitting on lion-footed chairs, is shown inhaling the fragrance of a lotus flower. Several figures are depicted bringing offerings, including a man holding a bull’s leg. Another person is performing a lustratio, an ancient purification ritual often conducted before significant religious or funerary events.", 
+        "longerInfo": [ 
+          "2) longer info ",
+          "..."
+        ],
+        "fullInfo": "3) full info ",
+        "info": { 
+          "date": "2033 BCE — 1963 BCE", 
+          "geography": "Egypt",
+          "medium": "Limestone",
+          "dimension": "Height: 112.5 cm; Width: 102.5 cm; Thickness: 9 cm", 
+          "constellation": "Ursa Major", 
+          "symbol": "Bull"  
+        }
+      },
+
+      {
+        "@sort": 7, 
+        "itemName": "STATUE OF GOD APIS", 
+        "image": "img_compressed/egyptian_taurus.jpg", 
+        "shortInfo": "This item is the upper part of an anthropomorphic statue of the bull-headed god Apis, carved from basalt. Apis was a sacred deity in ancient Egypt, associated with fertility, strength, and the king's divine power, often represented as a bull or a bull-headed figure.", 
+        "longerInfo": [ 
+          "2) longer info ",
+          "..."
+        ],
+        "fullInfo": "3) full info ",
+        "info": { 
+          "date": "1550 BCE — 1070 BCE", 
+          "geography": "Egypt",
+          "medium": "Granite",
+          "dimension": "Height 76 cm; Width 39 cm; Depth 34 cm", 
+          "constellation": "Taurus", 
+          "symbol": "Bull"  
+        }
+      },
+
+      {
+        "@sort": 8, 
+        "itemName": "ISIS OF COPTOS", 
+        "image": "img_compressed/egyptian_isis_sopdet.jpg", 
+        "shortInfo": "Monumental stone statue representing the egyptian goddess Isis-Sopted, personification of the star Sirius.", 
+        "longerInfo": [ 
+          "2) longer info ",
+          "..."
+        ],
+        "fullInfo": "3) full info ",
+        "info": { 
+          "date": "1539 BCE — 19292 BCE", 
+          "geography": "Egypt",
+          "medium": "Stone / Granodiorite",
+          "dimension": "Height: 47 cm, Width: 153 cm, Depth: 35 cm", 
+          "constellation": "Canis Major", 
+          "symbol": "Humanoid"  
+        }
+      },
+
+      {
+        "@sort": 9,
+        "itemName": "Ceremonial Basin", 
+        "image": "img_compressed/babylonian_goatfish.JPG",
+        "shortInfo": "Rectangular religious basin, decorated with goat fish on either side of a palm tree; braid decoration on the upper edge; quadrangular stepped moldings in the bottom of the basin; traces of an inscription in Elamite (?)",
+        "longerInfo": [
+          "long info 1",
+          "long info 2"
+        ],
+        "fullInfo": "long info 1, long info 2, long info 3",
+        "info": {
+          "date": "1500 BCE — 1100 BCE",
+          "geography": "Babylon",
+          "medium": "Limestone", 
+          "dimension": "Height: 17 cm; Length: 94 cm; Width: 64 cm", 
+          "constellation": "Capricorn",
+          "symbol": "Goat-Fish"  
+        }
+      },
+
+      {
+        "@sort": 10, 
+        "itemName": "FIGURINE OF THE GOD KHNUM", 
+        "image": "img_compressed/egyptian_sheep.webp", 
+        "shortInfo": "Upper part of a steatite figurine depicting the egyptian god Khnum.", 
+        "longerInfo": [ 
+          "2) longer info ",
+          "..."
+        ],
+        "fullInfo": "3) full info ",
+        "info": { 
+          "date": "664 BCE — 332 BCE", 
+          "geography": "Egypt",
+          "medium": "Steatite",
+          "dimension": "Height: 11.2 cm, Width: 7.3 cm, Depth: 5.8 cm", 
+          "constellation": "Capricorn", 
+          "symbol": "Goat-Fish"  
+        }
+      },
+
+      {
+        "@sort": 11,
+        "itemName": "NECK AMPHORA: HERAKLES AND THE NEMEAN LION",
+        "image": "https://raw.githubusercontent.com/IMWT-project/Image-/refs/heads/main/greek-2.jpeg",
+        "shortInfo":"A Greek neck-amphora depicts Herakles wrestling the Nemean lion and Theseus battling the Minotaur, adorned with a cockfight and palmette-lotus motifs.",
+        "longerInfo": [
+          "...",
+          "..."
+        ],
+        "fullInfo": "...",
+        "info": {
+          "date": "540BCE - 530BCE.",
+          "geography": "Greek",
+          "medium": "Terracotta", 
+          "dimension": "Height: 41.3 cm, Diameter: 31.5 cm ", 
+          "constellation": "Leo", 
+          "symbol": "Lion"  
+       }
+      },
+
+      {
+        "@sort": 12,
+        "itemName": "Europa carried off by the bull",
+        "image": "https://raw.githubusercontent.com/IMWT-project/timeline/refs/heads/main/img_compressed/greek_taurus.jpg",
+        "shortInfo": "A red-figured neck-amphora depicts Europa seated on a galloping bull with flowing garments and intricate details, while her companion runs behind her, both framed by decorative patterns of maeanders and key motifs.",
+        "longerInfo": [
+          "...",
+          "..."
+        ],
+        "fullInfo": "...",
+        "info": {
+          "date": "440BCE.",
+          "geography": "Greek",
+          "medium": "Pottery", 
+          "dimension": "Height: 32 cm, Width: 18.5 cm, Weight: 1.24 kg", 
+          "constellation": "Taurus", 
+          "symbol": "Bull"  
+       }
+      },
+
+      {
+        "@sort": 13,
+        "itemName": "BRONZE RELIEF OF A VEILED WOMAN RIDING A SEA-GOAT",
+        "image": "https://raw.githubusercontent.com/IMWT-project/Image-/refs/heads/main/greek-3.jpeg.",
+        "shortInfo":"A 4th-century BCE Greek bronze relief depicts a veiled woman, likely a nereid, elegantly posed on a rare fish-tailed sea-goat.",
+        "longerInfo": [
+          "...",
+          "..."
+        ],
+        "fullInfo": "...",
+        "info": {
+          "date": "4th century BCE..",
+          "geography": "Greek",
+          "medium": "Bronze", 
+          "dimension": "Height: 8.9 cm, Width: 10.5 cm)", 
+          "constellation": "Capricorn", 
+          "symbol": "Goatfish"  
+       }
+      },
+
+      {
+        "@sort": 14, 
+        "itemName": "HERAKLES AND THE GOLDEN APPLES ", 
+        "image": "img_compressed/greek_draco.jpg", 
+        "shortInfo": "Greek bronze group depicting Herakles at the tree of the Hesperides, holding three golden apples in his left hand. Behind him, the apple tree is entwined by the guardian serpent.", 
+        "longerInfo": [ 
+          "2) longer info ",
+          "..."
+        ],
+        "fullInfo": "3) full info ",
+        "info": { 
+          "date": "250 BCE — 30 BCE", 
+          "geography": "Greece",
+          "medium": "Bronze",
+          "dimension": "Height: 104.5 cm, Width: 53 cm, Weight: 37 kg", 
+          "constellation": "Draco", 
+          "symbol": "Dragon"  
+        }
+      },
+
+      {
+        "@sort": 15,
+        "itemName": "ROOF TILE END WITH RED BIRD OF THE SOUTH.",
+        "image": "https://raw.githubusercontent.com/IMWT-project/Image-/refs/heads/main/chinese-4.jpeg",
+        "shortInfo": "Rroof tile, decorated with animals that symbolize two of the four cardinal directions: the White Tiger of the West and the Red Bird of the South..",
+        "longerInfo": [
+          "...",
+          "..."
+        ],
+        "fullInfo": "...",
+        "info": {
+          "date": "206 BCE - 9 CE.",
+          "geography": "China", 
+          "medium": "Earthenware", 
+          "dimension": "Diameter: 18.4 cm",
+          "constellation": "mostly Hydra and Leo", 
+          "symbol": "Vermilion Bird"  
+        }
+      },
+
+      {
+        "@sort": 16,
+        "itemName": "ROOF TILE END WITH TIGER",
+        "image": "https://raw.githubusercontent.com/IMWT-project/Image-/refs/heads/main/chinese-2.jpg",
+        "shortInfo": "A Han dynasty ceramic roof tile end featuring a white tiger motif, symbolizing protection and strength.",
+        "longerInfo": [
+          "This object is a ceramic tile with a tiger motif (瓦当) .",
+          "It represents the west in terms of direction and the autumn."
+        ],
+        "fullInfo": "...",
+        "info": {
+          "date": "206 BCE - 220 CE.",
+          "geography": "China", 
+          "medium": "Earthenware", 
+          "dimension": "Diameter: 19.3 cm", 
+          "constellation": "mostly Taurus and Orion",
+          "symbol": "Tiger"  
+        }
+      },
+
+      {
+        "@sort": 17, 
+        "itemName": "WALL PAINTING: PERSEUS AND ANDROMEDA ", 
+        "image": "img_compressed/greek_andromeda.jpg", 
+        "shortInfo": "Greek fresco illustrating a pivotal moment in the myth of Perseus and Andromeda. In the scene, Perseus prepares to rescue Andromeda from the ketos, a formidable sea monster rendered in a striking blue-green palette. The creature, with its massive open jaws and fearsome teeth, looms ominously toward Andromeda, who stands in the center of the composition with her arms outstretched, embodying both vulnerability and hope.", 
+        "longerInfo": [ 
+          "2) longer info ",
+          "..."
+        ],
+        "fullInfo": "3) full info ",
+        "info": { 
+          "date": "10 BCE — 1 BCE", 
+          "geography": "Greece",
+          "medium": "Fresco",
+          "dimension": "Height: 159.39 cm, Width: 118.75 cm", 
+          "constellation": "Andromeda", 
+          "symbol": "Humanoid"  
+        }
+      },
+
+      {
+        "@sort": 18, 
+        "itemName": "MIRROR WITH ANIMAL HEADS AND AZURE DRAGONS", 
+        "image": "https://raw.githubusercontent.com/IMWT-project/Image-/refs/heads/main/chinese-1.jpg",
+        "shortInfo": "An ancient bronze mirror with intricate carvings of animal heads and Azure Dragons, symbolizing protection, power, and spiritual beliefs in traditional Chinese culture.",
+        "longerInfo": [ 
+          "..."
+          
+        ],
+        "fullInfo": "...",
+         "info": {
+          "date": "7th CE", 
+          "geography": "China", 
+          "medium": "Bronze",
+          "dimension": "Diameter: 14.8 cm, Height: 0.5 cm, Thickness: 0.6 cm", 
+          "constellation": "mostly-Scorpius", 
+          "symbol": "Dragon"  
+        }
+      },
+
+      {
+        "@sort": 19,
+        "itemName": "HANGING SCROLL RUBBING OF XUANWU.",
+        "image": "https://raw.githubusercontent.com/IMWT-project/Image-/refs/heads/main/chinese-3.png",
+        "shortInfo": "Hanging scroll, rubbing. Tortoise and snake (Xuanwu). Constellations on the back of the turtle. With seal. Rubbed in ink on paper.",
+        "longerInfo": [
+          "...",
+          "..."
+        ],
+        "fullInfo": "...",
+        "info": {
+          "date": "680-740 CE.",
+          "geography": "China", 
+          "medium": "Paper", 
+          "dimension": "Height:142.50 cm, Width: 79.50 cm, Thickness: 4cm.",
+          "constellation": "mostly Taurus and Orion", 
+          "symbol": "Turtel"  
+        }
+      }
+    ]
+  }
+  
+
+
