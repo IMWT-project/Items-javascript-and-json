@@ -1,6 +1,5 @@
 
       {
-        [
           {
             "@sort": 12,
             "itemName": "Europa carried off by the bull",
@@ -61,17 +60,15 @@
           {
             "@sort": 18, 
             "itemName": "MIRROR WITH ANIMAL HEADS AND AZURE DRAGONS", 
-            "image": "https://raw.githubusercontent.com/IMWT-project/Image-/refs/heads/main/chinese-1.jpg", //item's image//
-            "shortInfo": "An ancient bronze mirror with intricate carvings of animal heads and Azure Dragons, symbolizing protection, power, and spiritual beliefs in traditional Chinese culture.", //short information displayed by default//
+            "image": "https://raw.githubusercontent.com/IMWT-project/Image-/refs/heads/main/chinese-1.jpg",
+            "shortInfo": "An ancient bronze mirror with intricate carvings of animal heads and Azure Dragons, symbolizing protection, power, and spiritual beliefs in traditional Chinese culture.",
             "longerInfo": [ 
               "..."
               
             ],
-            "fullInfo": 
-            "Concentric Rings: The design is structured with concentric rings, which are adorned with geometric patterns or delicate ornamentation, enhancing the aesthetic appeal.
-             Monochromatic, The surface has a monochromatic bronze tone, emphasizing its metallic texture and timeless elegance.
-              Symbolic Themes: The Azure Dragon and animal heads may carry symbolic meanings, often associated with protection, power, and spiritual beliefs in traditional Chinese culture.", //link to the page with more info, displayed when you clik on "show me even more" --> we said to display this part as text, not as an external page//
-            
+            "fullInfo": "Concentric Rings: The design is structured with concentric rings, which are adorned with geometric patterns or delicate ornamentation, enhancing the aesthetic appeal.
+             Monochromatic, The surface has a monochromatic bronze tone, emphasizing its metallic texture and timeless elegance. 
+             Symbolic Themes: The Azure Dragon and animal heads may carry symbolic meanings, often associated with protection, power, and spiritual beliefs in traditional Chinese culture.",
              "info": {
               "date": "7th CE", 
               "geography": "China", 
@@ -93,10 +90,10 @@
             "fullInfo": "...",
             "info": {
               "date": "206 BCE - 220 CE.",
-              "geography": "China", //narrative 1 = es. chronological//
-              "medium": "Earthenware", //narrative 2 = es. geographical//
-              "dimension": "Diameter: 19.3 cm", //narrative 3 = es. symbol//
-              "constellation": "mostly Taurus and Orion", //narrative 4 = es. zodiac//
+              "geography": "China", 
+              "medium": "Earthenware", 
+              "dimension": "Diameter: 19.3 cm", 
+              "constellation": "mostly Taurus and Orion",
               "symbol": "Tiger"  
             }
           },
