@@ -1,0 +1,146 @@
+
+      {
+        [
+          {
+            "@sort": 12,
+            "itemName": "Europa carried off by the bull",
+            "image": "https://raw.githubusercontent.com/IMWT-project/timeline/refs/heads/main/img_compressed/greek_taurus.jpg",
+            "shortInfo": "A red-figured neck-amphora depicts Europa seated on a galloping bull with flowing garments and intricate details, while her companion runs behind her, both framed by decorative patterns of maeanders and key motifs.",
+            "longerInfo": [
+              "...",
+              "..."
+            ],
+            "fullInfo": "...",
+            "info": {
+              "date": "440BCE.",
+              "geography": "Greek",
+              "medium": "Pottery", 
+              "dimension": "Height: 32 cm, Width: 18.5 cm, Weight: 1.24 kg", 
+              "constellation": "Taurus", 
+              "symbol": "Bull"  
+           }
+          }
+          {
+            "@sort": 11,
+            "itemName": "NECK AMPHORA: HERAKLES AND THE NEMEAN LION",
+            "image": "https://raw.githubusercontent.com/IMWT-project/Image-/refs/heads/main/greek-2.jpeg",
+            "shortInfo":"A Greek neck-amphora depicts Herakles wrestling the Nemean lion and Theseus battling the Minotaur, adorned with a cockfight and palmette-lotus motifs.",
+            "longerInfo": [
+              "...",
+              "..."
+            ],
+            "fullInfo": "...",
+            "info": {
+              "date": "540BCE - 530BCE.",
+              "geography": "Greek",
+              "medium": "Terracotta", 
+              "dimension": "Height: 41.3 cm, Diameter: 31.5 cm ", 
+              "constellation": "Leo", 
+              "symbol": "Lion"  
+           }
+          }
+          {
+            "@sort": 13,
+            "itemName": "BRONZE RELIEF OF A VEILED WOMAN RIDING A SEA-GOAT",
+            "image": "https://raw.githubusercontent.com/IMWT-project/Image-/refs/heads/main/greek-3.jpeg.",
+            "shortInfo":"A 4th-century BCE Greek bronze relief depicts a veiled woman, likely a nereid, elegantly posed on a rare fish-tailed sea-goat.",
+            "longerInfo": [
+              "...",
+              "..."
+            ],
+            "fullInfo": "...",
+            "info": {
+              "date": "4th century BCE..",
+              "geography": "Greek",
+              "medium": "Bronze", 
+              "dimension": "Height: 8.9 cm, Width: 10.5 cm)", 
+              "constellation": "Capricorn", 
+              "symbol": "Goatfish"  
+           }
+          }
+          {
+            "@sort": 18, 
+            "itemName": "MIRROR WITH ANIMAL HEADS AND AZURE DRAGONS", 
+            "image": "https://raw.githubusercontent.com/IMWT-project/Image-/refs/heads/main/chinese-1.jpg", //item's image//
+            "shortInfo": "An ancient bronze mirror with intricate carvings of animal heads and Azure Dragons, symbolizing protection, power, and spiritual beliefs in traditional Chinese culture.", //short information displayed by default//
+            "longerInfo": [ 
+              "..."
+              
+            ],
+            "fullInfo": 
+            "Concentric Rings: The design is structured with concentric rings, which are adorned with geometric patterns or delicate ornamentation, enhancing the aesthetic appeal.
+             Monochromatic, The surface has a monochromatic bronze tone, emphasizing its metallic texture and timeless elegance.
+              Symbolic Themes: The Azure Dragon and animal heads may carry symbolic meanings, often associated with protection, power, and spiritual beliefs in traditional Chinese culture.", //link to the page with more info, displayed when you clik on "show me even more" --> we said to display this part as text, not as an external page//
+            
+             "info": {
+              "date": "7th CE", 
+              "geography": "China", 
+              "medium": "Bronze",
+              "dimension": "Diameter: 14.8 cm, Height: 0.5 cm, Thickness: 0.6 cm", 
+              "constellation": "mostly-Scorpius", 
+              "symbol": "Dragon"  
+            }
+          }
+          {
+            "@sort": 16,
+            "itemName": "ROOF TILE END WITH TIGER",
+            "image": "https://raw.githubusercontent.com/IMWT-project/Image-/refs/heads/main/chinese-2.jpg",
+            "shortInfo": "A Han dynasty ceramic roof tile end featuring a white tiger motif, symbolizing protection and strength.",
+            "longerInfo": [
+              "This object is a ceramic tile with a tiger motif (瓦当) .",
+              "It represents the west in terms of direction and the autumn."
+            ],
+            "fullInfo": "...",
+            "info": {
+              "date": "206 BCE - 220 CE.",
+              "geography": "China", //narrative 1 = es. chronological//
+              "medium": "Earthenware", //narrative 2 = es. geographical//
+              "dimension": "Diameter: 19.3 cm", //narrative 3 = es. symbol//
+              "constellation": "mostly Taurus and Orion", //narrative 4 = es. zodiac//
+              "symbol": "Tiger"  
+            }
+          },
+          {
+            "@sort": 19,
+            "itemName": "HANGING SCROLL RUBBING OF XUANWU.",
+            "image": "https://raw.githubusercontent.com/IMWT-project/Image-/refs/heads/main/chinese-3.png",
+            "shortInfo": "Hanging scroll, rubbing. Tortoise and snake (Xuanwu). Constellations on the back of the turtle. With seal. Rubbed in ink on paper.",
+            "longerInfo": [
+              "...",
+              "..."
+            ],
+            "fullInfo": "...",
+            "info": {
+              "date": "680-740 CE.",
+              "geography": "China", 
+              "medium": "Paper", 
+              "dimension": "Height:142.50 cm, Width: 79.50 cm, Thickness: 4cm.",
+              "constellation": "mostly Taurus and Orion", 
+              "symbol": "Turtel"  
+            }
+          }
+          {
+            "@sort": 15,
+            "itemName": "ROOF TILE END WITH RED BIRD OF THE SOUTH.",
+            "image": "https://raw.githubusercontent.com/IMWT-project/Image-/refs/heads/main/chinese-4.jpeg",
+            "shortInfo": "Rroof tile, decorated with animals that symbolize two of the four cardinal directions: the White Tiger of the West and the Red Bird of the South..",
+            "longerInfo": [
+              "...",
+              "..."
+            ],
+            "fullInfo": "...",
+            "info": {
+              "date": "206 BCE - 9 CE.",
+              "geography": "China", 
+              "medium": "Earthenware", 
+              "dimension": "Diameter: 18.4 cm",
+              "constellation": "mostly Hydra and Leo", 
+              "symbol": "Vermilion Bird"  
+            }
+          }
+        ]
+      }
+      
+
+
+
